@@ -2,3 +2,4 @@
 Creat a new branch is quick
 new
 new
+bug right
